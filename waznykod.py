@@ -1,0 +1,1 @@
+print("Tu jest mega skomplikowany algorytm")
